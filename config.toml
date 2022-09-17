@@ -1,5 +1,5 @@
-baseURL = "https://gokarna-hugo.netlify.app"
-title = "Gokarna"
+baseURL = "https://jcvincentliu.netlify.app/"
+title = "Vincent Liu"
 theme = "gokarna"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -7,11 +7,11 @@ enableEmoji = true
 enableRobotsTXT = true
 
 # Choose one of emacs, trac or perldoc
-pygmentsStyle = "monokai"
+pygmentsStyle = "colorful"
 
 [params]
-  footer = "The Marauders"
-  description = "Sky above, sand below and peace within"
+  footer = "Vincent Liu"
+  description = "Impact driven in criminal justice and education with data science, rigorous research, and writing."
   avatarURL = "/images/avatar.webp"
   AvatarAltText = "avatar"
   avatarSize = "size-m"
@@ -36,13 +36,11 @@ pygmentsStyle = "monokai"
     </script>
   """
   socialIcons = [
-    {name = "twitter", url = "https://example.com"},
-    {name = "linkedin", url = "https://example.com"},
-    {name = "stackoverflow", url = "https://example.com"},
-    {name = "dribbble", url = "https://example.com"},
-    {name = "instagram", url = "https://example.com"},
-    {name = "twitch", url = "https://example.com"},
-    {name = "email", url = "mailto:example@example.com"}
+    {name = "twitter", url = "https://twitter.com/JunchenVincent"},
+    {name = "linkedin", url = "https://www.linkedin.com/in/juncheng-liu-79075315a/"},
+    {name = "github", url = "https://github.com/jcvincentliu/"},
+  #  {name = "stackoverflow", url = "https://example.com"},
+    {name = "email", url = "mailto:liujcv00048@gmail.com"}
   ]
   metaKeywords = ["blog", "gokarna", "hugo"]
 
@@ -54,7 +52,7 @@ pygmentsStyle = "monokai"
     weight = 1
 
   [[menu.main]]
-    name = "Posts"
+    name = "Blog"
     pre = "<span data-feather='book'></span>"
     url = "/posts/"
     weight = 2
@@ -76,12 +74,6 @@ pygmentsStyle = "monokai"
     pre = "<span data-feather='github'></span>"
     url = "https://github.com/526avijitgupta/gokarna"
     weight = 5
-
-  [[menu.main]]
-    identifier = "buymeacoffee"
-    pre = "<span data-feather='coffee'></span>"
-    url = "https://www.buymeacoffee.com/avijitgupta"
-    weight = 6
 
   [[menu.main]]
     identifier = "rss"
