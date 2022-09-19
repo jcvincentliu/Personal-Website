@@ -71,10 +71,16 @@ pygmentsStyle = "native"
     url = "/projects/"
     weight = 4
 
-  [[menu.main]]
-    name = "Tags"
-    pre = "<span data-feather='tag'></span>"
-    url = "/tags/"
+#  [[menu.main]]
+ #   name = "Tags"
+ #   pre = "<span data-feather='tag'></span>"
+ #   url = "/tags/"
+ #   weight = 5
+    
+    [[menu.main]]
+    name = "Resume"
+    pre = "<span data-feather='file-text'></span>"
+    url = "/static/files/Juncheng (Vincent) Liu, Resume (Updated September 2022).pdf"
     weight = 5
 
   [[menu.main]]
