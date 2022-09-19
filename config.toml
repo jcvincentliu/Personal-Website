@@ -88,6 +88,12 @@ pygmentsStyle = "native"
     pre = "<span data-feather='github'></span>"
     url = "https://github.com/jcvincentliu/"
     weight = 6
+    
+  [[menu.main]]
+    identifier = "linkedin"
+    pre = "<span data-feather='linkedin'></span>"
+    url = "https://www.linkedin.com/in/juncheng-liu-79075315a/"
+    weight = 7
 
 
 
