@@ -1,6 +1,6 @@
 ---
 title: "Opinion: Math Should not be the Antonym of Social Justice"
-date: 2022-09-10
+date: 2022-09-18
 description: "A recent policy passed in California reforms the state's math education teaching by opening advanced math classes, such as AP Calculus, that were traditionally preserved for White and Asian students to everyone. The policy may prove to be beneficial. Here is why."
 tags: ["Opinion", "Policy", "Education"]
 type: post

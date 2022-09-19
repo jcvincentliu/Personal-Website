@@ -1,7 +1,7 @@
 
 ---
 title: "Teaching Sociology or Teaching Compassion"
-date: 2022-09-18
+date: 2022-09-10
 description: "Social science, specially, sociology is not only a field/subject. It carries the mission of instilling positive human values on people. Compassion is not teachable, but we can help people better stand in others' shoes with the magic of social sciences"
 tags: ["Opinion", "Society"]
 type: post

@@ -1,7 +1,7 @@
 
 ---
 title: "Opinion: Education Should Be Depolitical"
-date: 2022-09-10
+date: 2022-09-18
 description: "In face of an increasing trend of politicalizing the K12 system, students suffer from being regulated on what they can learn and what they can't learn. However, do politicians really know education? My answer is no."
 tags: ["Opinion", "Policy", "Education"]
 type: post
