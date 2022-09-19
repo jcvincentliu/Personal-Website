@@ -31,9 +31,9 @@ I am a metalhead, especially Metallica! Some of the songs I recently listened to
 
 ### Initiatives in progress
 
-* **What they experienced, thought, and said: Narrating people's stories**
+* **What they experienced, thought, and said: Narrations of people's stories with the criminal justice system**
 
-* **I stand by you: Asian-Black Alliance**
+* **I stand by you: Asian-Black Alliance and Solidarity**
 
 
 
