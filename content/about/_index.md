@@ -21,12 +21,12 @@ As a data science student, I am passionate about data journalism, the art of dat
 
 I am a metalhead, especially Metallica! Some of the songs I recently listened to include:
 
-- Master of Puppets, Metallica
-- Ride the Lightening, Metallica,
-- One, Metallica
-- Welcome Home (Sanitarium), Metallica
-- Only for the Weak, In Flames
-- Race to the Sea, Sabaton
+- *Master of Puppets*, Metallica
+- *Ride the Lightening*, Metallica,
+- *One*, Metallica
+- *Welcome Home (Sanitarium)*, Metallica
+- *Only for the Weak*, In Flames
+- *Race to the Sea*, Sabaton
 - ...
 
 ### Initiatives in progress
