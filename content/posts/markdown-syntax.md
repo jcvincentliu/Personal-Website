@@ -2,7 +2,7 @@
 title: "Markdown Syntax Guide"
 date: 2019-06-19
 description: "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
-tags: ["markdown", "css", "html"]
+tags: ["tutorial"]
 type: post
 weight: 20
 showTableOfContents: true
