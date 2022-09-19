@@ -1,6 +1,7 @@
 baseURL = "https://jcvincentliu.netlify.app/"
 title = "Juncheng 'Vincent' Liu"
 theme = "gokarna"
+googleAnalytics = "G-HCZW5878PF"
 languageCode = "en"
 defaultContentLanguage = "en"
 enableEmoji = true
