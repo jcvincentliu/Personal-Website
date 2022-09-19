@@ -87,5 +87,5 @@ pygmentsStyle = "native"
 [markup]
   [markup.tableOfContents]
     startLevel = 1
-    endLevel = 8
-    ordered = true
+    endLevel = 4
+    ordered = false
