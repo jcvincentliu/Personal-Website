@@ -1,6 +1,6 @@
 
 ---
-title: "Opinion: A Strategy of 41 Votes Will Take Senate Filibuster Structure to a New Page.md"
+title: "Opinion: A Strategy of 41 Votes Will Take Senate Filibuster Structure to a New Page"
 date: 2022-09-18
 description: "The current Senate filibuster structure that requires an absolute majority to begin or end a session puts the load on the majority and makes laws harder to pass. Reducing the number to 41 and re-requiring talk filibuster will shift the task back to minority and improve the problem."
 tags: ["Opinion", "Politics"]

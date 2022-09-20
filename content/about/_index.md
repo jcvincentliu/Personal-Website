@@ -10,6 +10,7 @@ showTableOfContents: true
 
 I am a second-year Master of Science in Computational Analysis and Public Policy student (MS-CAPP) at the University of Chicago Harris School of Public Policy and Department of Computer Science. I graduated from the University of Minnesota Twin Cities last year with dual degrees in Sociology of law, criminology, and deviance (BS) and Statistics (BA) with minors in Political Science and DirecTrack to Teaching. I am interested in criminal justice (policing, juvenile delinquency, community safety, decarceration, criminal law, 4th Amendment), K12 teaching and education (esp grades 6-12), and US politics (campaigning, voting, public opinion, Senate). 
 
+
 ### What I am doing
 
 As a researcher, I focus on policing, juvenile delinquency, and K12. My main areas of interests in policing contain community policing, warrior mentality training (and its MN dialect - fear-based training), police powers defined by the Fourth Amendment, body-worn camera policies. I have opinion pieces published by *Chicago Policy Review*.  
