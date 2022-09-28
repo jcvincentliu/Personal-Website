@@ -5,7 +5,7 @@ type: page
 showTableOfContents: true
 ---
 
-![Metal Post](/images/my_metal_gesture.jpg "metal gesture")
+![Metal Gesture](/images/my_metal_gesture.jpg "my metal gesture")
 
 
 ## Who I am
@@ -38,7 +38,11 @@ at:
 
 ## Songs on my playlist
 
-I am a metalhead, especially Metallica! Some of the songs I recently listened to include:
+I am a metalhead, especially Metallica! 
+
+![Metallica](/images/Metallica.jpg "Metallica")
+
+Some of the songs I recently listened to include:
 
 - *Only for the Weak*, In Flames
 - *Master of Puppets*, Metallica
