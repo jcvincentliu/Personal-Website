@@ -40,7 +40,7 @@ at:
 
 I am a metalhead, especially Metallica! 
 
-![Metallica](/images/Metallica.jpg "Metallica") ![Metal Gesture](/images/metal_gesture.jpg "metal gesture") 
+![Metallica](/images/Metallica.jpg "Metallica") 
 
 Some of the songs I recently listened to include:
 
@@ -51,6 +51,9 @@ Some of the songs I recently listened to include:
 - *Welcome Home (Sanitarium)*, Metallica
 - *Race to the Sea*, Sabaton
 - ...
+
+![Metal Gesture](/images/metal_gesture.jpg "metal gesture") 
+
 
 ## Initiatives in progress
 

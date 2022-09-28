@@ -8,7 +8,7 @@ type: post
 showTableOfContents: false
 ---
 
-![My old pic](/images/self_picture_1.jpg "my old pic")
+<!-- ![My old pic](/images/self_picture_1.jpg "my old pic") -->
 
 The idea of writing a blog of my own arose for a simple reason a while ago: to document ideas that "abruptly" popped into my mind and might leave in the next second. Throughout my academic career, I wrote a lot of academic papers but I had limited chances of doing what I really wanted, i.e. going back to the origin of writing and writing to follow my heart. Now in graduate school, I finally have the ability and time to, instead of task completion, use writing to communicate with my inner heart and share my ideas, joys, sorrows, and frustrations with the outer world. I am not a professional writer, and I believe that my writing could be rough in many places. However, I am happy that I finally have the space to be myself in the form of writing, which I think is the most important.
 
