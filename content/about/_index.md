@@ -5,7 +5,7 @@ type: page
 showTableOfContents: true
 ---
 
-![Metal Gesture](/images/my_metal_gesture.jpg "my metal gesture")
+![University of Minnesota](/images/umn_campus.jpg "I love UMN")   
 
 
 ## Who I am
@@ -40,7 +40,7 @@ at:
 
 I am a metalhead, especially Metallica! 
 
-![Metallica](/images/Metallica.jpg "Metallica")
+![Metallica](/images/Metallica.jpg "Metallica") ![Metal Gesture](/images/metal_gesture.jpg "metal gesture") 
 
 Some of the songs I recently listened to include:
 
