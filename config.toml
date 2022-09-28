@@ -13,7 +13,7 @@ pygmentsStyle = "native"
 [params]
   footer = "Vincent Liu"
   showPostsOnHomePage = "recent"
-  description = "Impact-driven in criminal justice and education with data science, rigorous research, and writing. \n  Policing | Juvenile Delinquency | K-12 | Data Visualization"
+  description = "Impact-driven in criminal justice and education with data science, rigorous research, and writing"
   avatarURL = "/images/picture.jpg"
   AvatarAltText = "avatar"
   avatarSize = "size-m"
