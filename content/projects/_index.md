@@ -11,7 +11,7 @@ showTableOfContents: true
 
 1. **Nonprofit Sector In Brief Flex Dashboard and Shiny Portal**:
       
-Projects for my summer data science internship with Urban Institute
+Projects for my summer data science internship with Urban Institute. In this position, I developed a R Shiny portal and a flex dashboard that incorporates a handful of features to enhance user interactivity and expands user choices. Both dashboards incorporate a number of interactive charts and maps. 
 
 Available at (https://github.com/jcvincentliu/Urban-Institute-internship-dsproject)
 
@@ -20,7 +20,7 @@ $\textbf{packages}$: `tidyverse`, `stringr`, `ggplotly`, `leaflet`, `flex_dashbo
       
 2. **ACS Cleaning**
 
-I did some data cleaning of the American Community Survey data for my writing of the first draft of the Applied Problem-set 2 for the *Data and Programming in R 1* class. I was a TA for this course in spring 2022. 
+I did some simple data cleaning of the American Community Survey data for my writing of the first draft of the Applied Problem-set 2 for the *Data and Programming in R 1* class. I was a TA for this course in spring 2022. 
 
 Available at (https://github.com/jcvincentliu/Cleaning-ACS-Education-Data-in-R)
 
@@ -68,5 +68,12 @@ $\underline{\text{Applied Policy Communication Lab}}$
 - Strategic Communication Plan for CEG
 - Press Release for CEG
 - Talking Point for CEG
+
+$\underline{\text{Staff Writer at Chicago Policy Review}}$
+- Op-ed [(Link)](https://chicagopolicyreview.org/2022/01/19/soldiers-to-guardians-transition-to-a-community-policing-model/)
+- Op-ed (Forthcoming in late Oct/early Nov)
+- Research Analysis (Forthcoming later this year)
+
+*For more information about Chicago Policy Review, see [here](https://chicagopolicyreview.org/about/)*
 
 
