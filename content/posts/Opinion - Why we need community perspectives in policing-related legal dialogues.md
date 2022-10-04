@@ -1,5 +1,5 @@
 ---
-title: "Opinion: Why We Need Community Voices in Legal Dialogues About Policing"
+title: "Opinion: Why We Need Community Perspectives in the Judicial System"
 date: 2022-10-03
 description: "The recent police killing of Amir Locke in Minnesota raised an alarm on how officers should use force: can officers break into one's home in a no-knock style without a probable cause supporting the imminent necessity of such action? As reflected in many SCOTUS cases, I am arguing there is a clear trend of lacking and ignoring community voices in the judicial system, which fosters unaccountable judicial policies that makes officers who committed crimes walk away without punishment."
 tags: ["Opinion", "Policing", "Criminal Justice"]
