@@ -1,6 +1,6 @@
 ---
 title: "Markdown Syntax Guide"
-date: 2019-06-19
+date: 2020-02-19
 description: "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 tags: ["tutorial"]
 type: post
