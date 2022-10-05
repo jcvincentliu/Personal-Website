@@ -18,5 +18,5 @@ showTableOfContents: true
 
 ## Technical and Policy Writing
 
-* [Sample Experience])(/projects/Writing/)
+* [Sample Experience](/projects/Writing/)
 
