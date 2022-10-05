@@ -5,9 +5,20 @@ showTableOfContents: true
 ---
 
 
-## Coding Projects
+## Coding Projects (codes, writeups)
 
-### In $\underline{\textbf{R}}$: 
+
+* In [**R**](/projects/R_coding/): 
+* In [**Python**](/projects/Python_coding/)
+
+## Data Visualizations and Storytelling
+
+* [**Static**](/projects/Visualizations)
+* Interactive (to be added)
+
+## [Technical and Policy Writing](/projects/Writing)
+
+
 
 1. **Nonprofit Sector In Brief Flex Dashboard and Shiny Portal**:
       
@@ -24,7 +35,7 @@ I did some simple data cleaning of the American Community Survey data for my wri
 
 Available at (https://github.com/jcvincentliu/Cleaning-ACS-Education-Data-in-R)
 
-$\textbf{packages}$: `dplyr`, `forcats`, `lubridate`, `ggplot2`
+> $\textbf{packages}$: `dplyr`, `forcats`, `lubridate`, `ggplot2`
 
 
 3. **Statistical Analysis of the Police-Public Contact Survey data**:
