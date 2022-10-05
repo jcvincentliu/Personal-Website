@@ -5,7 +5,7 @@ showTableOfContents: true
 ---
 
 
-## Coding Projects (codes, writeups)
+## Coding Projects (codes, writeups) 
 
 
 * In [**R**](/projects/R_coding/): 
@@ -13,10 +13,10 @@ showTableOfContents: true
 
 ## Data Visualizations and Storytelling
 
-* [**Static charts and maps:**](/projects/Visualizations/)
+* [**Static charts and maps:**](/projects/Visualizations/static/)
 * Interactive graphics using $D_3$: (to be added)
 
 ## Technical and Policy Writing
 
-* [Sample Experience](/projects/Writing/)
+* [**Experiences**](/projects/Writing/)
 
