@@ -14,6 +14,7 @@ pygmentsStyle = "native"
   footer = "Vincent Liu"
   showPostsOnHomePage = "recent"
   description = "Impact-driven in criminal justice and education with data science, rigorous research, and writing"
+  accentColor = "#FF4D4D"
   avatarURL = "/images/picture.jpg"
   AvatarAltText = "avatar"
   avatarSize = "size-m"
@@ -81,7 +82,7 @@ pygmentsStyle = "native"
     [[menu.main]]
     name = "Resume"
     pre = "<span data-feather='file-text'></span>"
-    url = "/files/resume.pdf"
+    url = "/files/Resume_updated.pdf"
     weight = 5
 
   [[menu.main]]
