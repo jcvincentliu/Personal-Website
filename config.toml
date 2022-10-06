@@ -40,7 +40,8 @@ pygmentsStyle = "native"
     </script>
   """
   socialIcons = [
-    {name = "twitter", url = "https://twitter.com/JunchenVincent"},
+   # {name = "twitter", url = "https://twitter.com/JunchenVincent"},
+    {name = "medium", url = "https://jcvincentliu.medium.com"},
     {name = "linkedin", url = "https://www.linkedin.com/in/juncheng-liu-79075315a/"},
     {name = "github", url = "https://github.com/jcvincentliu/"},
   #  {name = "stackoverflow", url = "https://example.com"},
@@ -85,7 +86,7 @@ pygmentsStyle = "native"
     url = "/files/Resume_updated.pdf"
     weight = 5
 
-  [[menu.main]]
+  [[menu.main]]  
     identifier = "github"
     pre = "<span data-feather='github'></span>"
     url = "https://github.com/jcvincentliu/"
