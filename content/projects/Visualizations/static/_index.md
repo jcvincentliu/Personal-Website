@@ -4,13 +4,22 @@ type: page
 showTableOfContents: true
 ---
 
-## Bar Charts 
+## Line Chart 
 
-(All of the graphics below are made in R)
+(Unless specifically noted, all graphics below are made in R using ggplot)
+
+![Line chart 1](/images/data_viz/arrest_line_chart.png "line chart 1")
+
+
+## Bar Charts 
 
 ### Simple bar charts
 
 ![Simple bar chart 1](/images/data_viz/simple_bar_chart.png "simple chart 1")  
+
+### Horizontal bar charts
+
+![Horizontal bar chart](/images/data_viz/offense_bar_chart.png "horizontal chart-1")
    
 ### Stacked bar charts
 
