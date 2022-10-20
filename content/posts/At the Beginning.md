@@ -6,7 +6,7 @@ description: "A personal Journey of Writing"
 tags: ["personal essay"]
 type: post
 showTableOfContents: false
----
+---   
 
 <!-- ![My old pic](/images/self_picture_1.jpg "my old pic") -->
 
