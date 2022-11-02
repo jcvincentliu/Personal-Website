@@ -10,27 +10,37 @@ showTableOfContents: true
 
 ![Line chart 1](/images/data_viz/arrest_line_chart.png "line chart 1")
 
+![Line chart 2](/images/data_viz/offense_line_chart.png "line chart 2")
+
 
 ## Bar Charts 
 
-### Simple bar charts
+### Faced bar charts
 
-![Simple bar chart 1](/images/data_viz/simple_bar_chart.png "simple chart 1")  
+![Simple bar chart 1](/images/data_viz/age_bar_chart.png "simple chart 1")  
+
+![Simple bar chart 2](/images/data_viz/faceted_bar_chart.png "simple chart 2")  
+
 
 ### Horizontal bar charts
 
-![Horizontal bar chart](/images/data_viz/offense_bar_chart.png "horizontal chart-1")
+![Grouped horizontal bar chart](/images/data_viz/offense_bar_chart.png "horizontal chart-1")
+
    
 ### Stacked bar charts
 
-![Stacked bar chart 1](/images/data_viz/stacked_bar_chart_1.png "stacked chart 1")  
-
+![Stacked bar chart 1](/images/data_viz/weapon_stacked_bar_chart.png "stacked chart 1")  
 
 ![Stacked bar chart 2](/images/data_viz/stacked_bar_chart_2.png "stacked chart 2")  
+
 
 ### Diverging bar charts 
 
 ![Diverging bar chart](/images/data_viz/diverging_bar_chart_1.png "diverging chart") 
+
+## Waffle Chart
+
+![Waffle chart](/images/data_viz/race_waffle_chart.png "waffle chart") 
 
 
 ## Pie Charts/Donult Charts
