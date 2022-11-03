@@ -1,12 +1,16 @@
 
 ---
-title: "Opinion: Education Should Be Depolitical"
-date: 2022-09-18
+title: "Opinion: Education Should Be Apolitical"
+date: 2022-09-25
 description: "In face of an increasing trend of politicalizing the K12 system, students suffer from being regulated on what they can learn and what they can't learn. However, do politicians really know education? My answer is no."
 tags: ["Opinion", "Policy", "Education"]
 type: post
 showTableOfContents: false
 ---
+
+<!-- style, tone, ... topic (progressive style guide) -->
+<!-- depoliticized/apolitical -->
+
 
 According to a [report](https://apnews.com/article/business-education-kentucky-b434a4980e88ff8882fd741ba57b518b) by the news agency Associated Press, lawmakers in Kentucky passed a bill that prohibits K-12 teachers from teaching materials that are against the “American spirits”, namely, those that shed light on philosophies, such as Marxism and Socialism. In a similar fashion, [Governor Abbott of Texas implemented a policy](https://www.texastribune.org/2021/06/15/abbott-critical-race-theory-law/) last year that regulated how current political and social events are taught and what can be discussed in the classroom. 
 
@@ -18,19 +22,22 @@ Early last year, I worked as a student-teacher at a 6th-grade social study class
 
 As an Asian, my eyes immediately got wet. That class was not supposed to be about racism. We planned to talk about economic transfers. However, the teacher felt he had the responsibility to instruct on these topics. He later told me that he spent a whole night on these materials. 
 
-More surprises came in the breakout room. I read a narrative of an Asian, who grew up in a suburb of Minnesota and was isolated by his peers for being not “Asian” enough, which they claimed was because he scored poorly on his math tests. Most of my students were Blacks. A few were Whites. I asked them what they thought about the story. 
+More surprises came in the breakout room. I read a narrative of an Asian American, who grew up in a suburb of Minnesota and was isolated by his peers for being not “Asian” enough, which they claimed was because he scored poorly on his math tests. My students come from a diverse racial background. I asked them what they thought about the story. 
 
 One student said he never knew Asians were facing such unfair treatment and that the author’s experience resonated with him. I then asked how the story impacted them personally, and a girl raised her virtual hand. I motioned her to unmute herself, and what she responded is still in my mind today. She said: “Mr.Vincent, why do some people discriminate against others for who they simply are?”. I didn’t give her an answer because I couldn’t find one appropriate answer that wouldn’t hurt her. However, her reply touched my heart.       
  
-I don’t know if I could have had the same dialog with my students if a similar bill was in effect in Minnesota because anti-Asian discrimination is likely to be a topic that does not manifest “American spirits”. The story conveyed an image of a certain group of US citizens living not as great as politicians claimed and it shows that MAGA (Make American Great Again) is and only is a political slogan. I still remember the [Florida teacher](https://www.jacksonville.com/story/news/education/2021/05/17/florida-education-commissioner-richard-corcoran-says-fired-duval-county-teacher-supporting-blm/5134544001/) who was fired because of complaints from the parents that she hung a BLM flag in her class. I am worried that the same thing would happen to the social studies teacher who gave that meaningful lecture and my old progressive classmates who are coming to be teachers.  
+I don’t know if I could have had the same dialog with my students if a similar bill was in effect in Minnesota because anti-Asian discrimination is likely to be a topic that does not manifest “American spirits”. The story conveyed an image of a certain group of US citizens living not as great as politicians claimed. I still remember the [Florida teacher](https://www.jacksonville.com/story/news/education/2021/05/17/florida-education-commissioner-richard-corcoran-says-fired-duval-county-teacher-supporting-blm/5134544001/) who was fired because of complaints from the parents that she hung a BLM flag in her class. I am worried that the same thing would happen to the social studies teacher who gave that meaningful lecture and my old progressive classmates who are coming to be teachers.  
 
 Meanwhile, I am also filled with the dread that students in the future will no longer be able to know the lives of people in other socioeconomic groups and understand the pains and joys.
 
 In her [classical essay](https://nationalseedproject.org/Key-SEED-Texts/curriculum-as-window-and-mirror), educator Emily Style called for including both “windows” and “mirrors” in the curriculum. She noted, “For me, the beauty of the classroom gathering lies in its possibilities for seeing new varieties of Beauty …  education needs to enable the student to look through window frames in order to see the realities of others and into mirrors in order to see her/his own reality reflected”. 
 
-Sadly, what she described is not happening in our education system, where a majority of the curriculum is White-centered and men-centered as if Blacks, females, and immigrants never existed in history. [A high school senior in Alexandria](https://www.washingtonpost.com/opinions/2022/01/01/advanced-placement-history-textbook-women/) found astonishingly that of 20 females that she believes everyone should learn about, her AP History textbook covered not even half of them. She noted that “six merits less than a sentence, and only one is mentioned more than once”. She even interviewed her classmates, and among 15 men and 15 women, half of them could not name one influential historical figure that was female, whereas, a lot of them could easily give out the names of many men. 
+Sadly, what she described is not happening in our education system, where a majority of the curriculum is Anglo-centric as if Blacks, females, and immigrants never existed in history. [A high school senior in Alexandria](https://www.washingtonpost.com/opinions/2022/01/01/advanced-placement-history-textbook-women/) found astonishingly that of 20 females that she believes everyone should learn about, her AP History textbook covered not even half of them. She noted that “six (women) merit[ed] less than a sentence, and only one [was] mentioned more than once.” She even interviewed her classmates, and among 15 men and 15 women, half of them could not name one influential historical figure that was female, whereas, a lot of them could easily give out the names of many men. 
  
-If the country continues in this direction, will prospective students recall a former Secretary of Education who committed herself to the heinous act of separating children and their parents at the border during her tenure? Will there be one day when no one remembers redlining, mass incarcerations, and a myriad of events that generated irreversible impacts on our BIPOC communities? What about heroes like W.E.B. DuBois, Martin Luther King, Ruth Bader Ginsberg, and Rosa Parks who spent their whole lives seeking to realize the faith that everyone is created equal? 
+If the country continues in this direction, will prospective students recall the heinous act of separating children and their parents at the border? Will there be one day when no one remembers redlining, mass incarcerations, and a myriad of events that generated irreversible impacts on our BIPOC communities? What about heroes like W.E.B. DuBois, Martin Luther King, Ruth Bader Ginsberg, and Rosa Parks who dedicated their whole lives to actualize the belief that everyone is created equal?  
+
+<!-- note: simplifying - not that many posits; also it wasn't one person. It was a period -->
+<!--note: a mistranslation in the last sentence."realize" is an internal process. "actualize" is an external word-->
 
 For the sake of our next generation, education should not be another playground of politics.
 
