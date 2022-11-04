@@ -30,7 +30,15 @@ $\textbf{packages}$: `tidyverse`, `stringr`, `ggplotly`, `leaflet`, `httr`, `fle
 
 3. **Statistical Analysis of the Police-Public Contact Survey data**:
 
-I conducted some statistical analysis on PPCS data to examine statistical relationships
-  between frequency of police stops and arrests and suspects' socioeconomic (age, sex, income), racial, and geo-spatial factors (where they live).
+I conducted some statistical analysis on PPCS data to examine statistical relationships between frequency of police stops and arrests and suspects' socioeconomic (age, sex, income), racial, and geo-spatial factors (where they live). I found out that these socioeconomic variables manifest strong statistical correlations with the frequencies of police interactions and arrests. Moreover, the effect doubled when these factors intertwined. My discovery shed light on the prevalence of racial profiling and neighborhood-targeted policing. I ended my analysis with recommendations on police reforms with highlights on police accountability and community policing.
 
-$\textbf{packages}$: `tiydverse`, `survey`, `base R functions` 
+$\textbf{packages}$: `tiydverse`, `survey`, `base R functions` (refer to a variety of base R functions, such as *summary*, *lm*, *glm*) 
+
+> Read the full paper at (https://www.linkedin.com/in/jcvincentliu/details/featured/1635467966079/single-media-viewer/)
+
+4. **Who were Served by Our Public Education System? Who Were Left Out?**
+
+I used the American Community Survey data, integrated by IPUMS-USA, to investigate the issue of school truancy. Through a series of analysis, I found out that as compared to Whites, racial minorities are more likely to attend public schools than private schools, and they also have a higher chance of dropping out from schools. Other socioeconomic factors including income, language fluency, immigration status, and employment, and being a Medicaid recipient or not were also highly relevant to school attendance. My findings shed light on the importance of "invisible identities". I ended my study on the benefits of adopting culturally relevant pedagogy, replacing punitive-solutions with restorative justice, and dismantling the school-to-prison pipeline.    
+
+$\textbf{packages}$: `tiydverse`, `base R functions` (refer to a variety of base R functions, such as *summary*, *lm*, *glm*) 
+
