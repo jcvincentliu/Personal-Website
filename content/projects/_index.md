@@ -13,8 +13,9 @@ showTableOfContents: true
 
 ## Data Visualizations and Storytelling
 
-* [**Static charts and maps:**](/projects/Visualizations/static/)
-* **Interactive graphics using $D_3$**: 
+* [**Static charts and maps with R:**](/projects/Visualizations/static/R/)
+* [**Static charts and maps with Python:**](/projects/Visualizations/static/)
+* **$D_3$* Interactive Data Journalism**: 
   - [Violent Crime Arrests in New York in 2021](https://jcvincentliu.github.io/CAPP30239_FA22/NY_arrest/arrest.html)
   - [Police Killing in the United States in 2015](https://jcvincentliu.github.io/CAPP30239_FA22/police_shooting/police_killing.html)
 
