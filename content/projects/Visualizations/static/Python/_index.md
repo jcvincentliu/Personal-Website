@@ -4,7 +4,11 @@ type: page
 showTableOfContents: true
 ---
 
+  
+
 # Using the *Matplotlib* and/or *Seaborn* Libraries
+
+-----
 
 ## Line Chart
 
@@ -21,10 +25,13 @@ Scatter plots with splines (a spline is a smoothed line that connects all dots t
 ![Bar chart 1](/images/data_viz/Python/plt_verticalbar1.png "bar chart 1")
 
 
-![Bar chart 2](/images/data_viz/Python/plt_hozizontalbar1.png "bar chart 2")
+![Bar chart 2](/images/data_viz/Python/plt_horizontalbar1.png "bar chart 2")
+
 
 
 # Using the *Altair* Library
+
+------
 
 ## Line Chart
 
@@ -40,7 +47,7 @@ Scatter plots with splines (a spline is a smoothed line that connects all dots t
 
 ### Faceted Bar Chart
 
-![Facted Bar chart 1](/images/data_viz/Python/altair_facatedbar1.png "faceted chart 1")
+![Faceted Bar chart 1](/images/data_viz/Python/altair_facetedbar1.png "faceted chart 1")
 
 
 ### Grouped Bar Chart
@@ -52,9 +59,11 @@ Scatter plots with splines (a spline is a smoothed line that connects all dots t
 ![Stacked chart 1](/images/data_viz/Python/altair_stackedbar1.png "stacked bar chart 1")
 
 
-### Layed Bar Chart
+### Layered Bar Chart
 
-[Layered chart](/images/data_viz/Python/altair_layerbar1.png "layered bar chart 1")
+A layered bar chart is a special type of stacked bar charts, where y represents the *cumulative* value.That is to say, in a layered bar chart, each legend group is a layer and different layers *collapse on* each other instead of being put *on top of* each other.    
+
+![Layered chart](/images/data_viz/Python/altair_layerbar1.png "layered bar chart 1")
 
 
 ## Lollipop Chart
