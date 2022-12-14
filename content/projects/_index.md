@@ -15,7 +15,7 @@ showTableOfContents: true
 
 * **Static charts and maps:**
   - [Using R](/projects/Visualizations/static/R/)
-  - [Using Python]()
+  - [Using Python](/projects/Visualizations/static/Python/)
 * **$D_3$ Interactive Data Journalism**: 
   - [Violent Crime Arrests in New York in 2021](https://jcvincentliu.github.io/CAPP30239_FA22/NY_arrest/arrest.html)
   - [Police Killing in the United States in 2015](https://jcvincentliu.github.io/CAPP30239_FA22/police_shooting/police_killing.html)
