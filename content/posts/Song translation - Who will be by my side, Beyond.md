@@ -26,8 +26,8 @@ escape is all I am capable of
 Once upon a time my dream was still naive and simple,
 but now I only found depression and desperation
 
-Silence is the response to my disappointment,
-the bleeding in heart!
+Silence is my response to disappointment,
+the bleeding in my heart!
 
 Just forgetting!
 the words that I have said!
@@ -61,8 +61,8 @@ I will tackle the gridlock in my heart
 Once upon a time my dream was still naive and simple,
 but I now only found depression and desperation
 
-Silence is the response to my disappointment,
-(the situation) makes my heart bleed
+Silence is my response to disappointment,
+the bleeding in my heart!
 
 Just forgetting!
 the words that I have said!
