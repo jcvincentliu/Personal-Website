@@ -30,30 +30,30 @@ Silence is my response to disappointment,
 the bleeding in my heart!
 
 Just forgetting!
-the words that I have said!
+The words that I have said!
 
 From yesterday to today,
-We have all changed a lot
+we have all changed a lot
 
 Just keep who we are! 
-despite that frustrations may be stronger tomorrow!
+Despite that frustrations may be stronger tomorrow!
 
-now that I have gotten used to (the disappointment).
-I can no longer sense those pains (I once felt),
+Now that I have gotten used to (the disappointment).
+I can no longer sense those pains (I once felt)
 
 Leaving all those (feelings) in the past, 
 there will be no more hesitations, woo...
 
 ---
 
-Who can accompany me,<br/>
+Who can accompany me,
 in this lonely night
 
 Throwing out my loneliness and suffering,
 there will be no more darkness whenever you are with me
 
 This quest ends up to no avail,
-Will whom being fighting by my side?
+will whom being fighting by my side?
 
 When the rainstorm is over,
 I will tackle the gridlock in my heart
@@ -65,25 +65,25 @@ Silence is my response to disappointment,
 the bleeding in my heart!
 
 Just forgetting!
-the words that I have said!
+The words that I have said!
 
 From yesterday to today,
 We have all changed a lot
 
 Just keep who we are! 
-despite that frustrations may be stronger tomorrow!
+Despite that frustrations may be stronger tomorrow!
 
 Leaving all those (feelings) in the past, 
 there will be no more hesitations
 
 Just forgetting!
-the words that I have said!
+The words that I have said!
 
 From yesterday to today,
-We have all changed a lot
+we have all changed a lot
 
 Just keep who we are! 
-despite that frustrations may be stronger tomorrow!
+Despite that frustrations may be stronger tomorrow!
 
 Leaving all those (feelings) in the past, 
 there will be no more hesitations.
