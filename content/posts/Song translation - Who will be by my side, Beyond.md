@@ -12,7 +12,7 @@ showTableOfContents: false
 <div align="center">
 
 Where should I go next, 
-where can I find the person that'll be with me on this quest?
+findinf the person that'll be with me on this quest?
 
 Walking astray as I step into future,
 I am losing my way
@@ -33,9 +33,9 @@ Just forgetting!
 The words that I have said!
 
 From yesterday to today,
-we have all changed a lot
+time is constantly evolving and so are we
 
-Just keep who we are! 
+Just be who we are! 
 Despite that frustrations may be stronger tomorrow!
 
 Now that I have gotten used to (the disappointment).
@@ -53,10 +53,10 @@ Throwing out my loneliness and suffering,
 there will be no more darkness whenever you are with me
 
 This quest ends up to no avail,
-will whom being fighting by my side?
+will whom stay fighting by my side?
 
 When the rainstorm is over,
-I will tackle the gridlock in my heart
+I will remove the gridlock in my heart
 
 Once upon a time my dream was still naive and simple,
 but I now only found depression and desperation
@@ -68,10 +68,13 @@ Just forgetting!
 The words that I have said!
 
 From yesterday to today,
-We have all changed a lot
+time is constantly evolving and so are we
 
-Just keep who we are! 
+Just be who we are! 
 Despite that frustrations may be stronger tomorrow!
+
+Now that I have gotten used to (the disappointment).
+I can no longer sense those pains (I once felt)
 
 Leaving all those (feelings) in the past, 
 there will be no more hesitations
@@ -80,13 +83,16 @@ Just forgetting!
 The words that I have said!
 
 From yesterday to today,
-we have all changed a lot
+time is constantly evolving and so are we
 
-Just keep who we are! 
+Just be who we are! 
 Despite that frustrations may be stronger tomorrow!
 
+Now that I have gotten used to (the disappointment).
+I can no longer sense those pains (I once felt)
+
 Leaving all those (feelings) in the past, 
-there will be no more hesitations.
+there will be no more hesitations
 
 Always on the road!
 </div>
