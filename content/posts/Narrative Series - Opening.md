@@ -14,6 +14,8 @@ showTableOfContents: false
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--- ***Beyond***, "Vast Sky Wide Ocean"  
 
+<br/>
+
 Dear X:
 
 &nbsp;&nbsp;&nbsp;&nbsp;There has been some time since we last met. How are you recently? Chicago is cold in winter!  It's probably not as cold as Minneapolis but is still cold regardless. What could be more miserable than having a summer person live in the North for over five years? I hope you don't have to experience this pain.    
@@ -35,7 +37,7 @@ Dear X:
 
 &nbsp;&nbsp;&nbsp;&nbsp; X, these people like Jay, whom we often ignored, probably know more about the feelings of pain and joy than we are. They are ordinary people but their stories are not ordinary. They are people who were hurt by society, who sacrificed themselves for their families, and who despite living the toughest life, still gave the most love to their children and friends. X, are we really different from them? Human emotions are never connected, and it's such a hard thing for us to stand in others' shoes. However, I really think stories have the power to change. This is why we need stories, stories of the people at the bottom.
 
-&nbsp;&nbsp;&nbsp;&nbsp; X, among these stories I heard, there are kids who stayed in jail cells, handcuffed, women who were stopped by police officers three times in the same day while passing a neighborhood, and students who were dissatisfied with the Mayor's crime-control efforts in the term. Let me tell you another one next time.
+&nbsp;&nbsp;&nbsp;&nbsp; X, among these stories I heard, there were kids who stayed in jail cells and handcuffed, women who were stopped by police officers three times in the same day while driving through a neighborhood where she worked, and young students from Turkey who were dissatisfied with the Mayor's crime-control efforts in the term. Let me tell you another one next time.
 
 
 
