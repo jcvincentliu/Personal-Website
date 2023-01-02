@@ -12,7 +12,7 @@ showTableOfContents: false
 <div align="center">
 
 Where should I go next, 
-findinf the person that'll be with me on this quest?
+finding the person that'll be with me on this quest?
 
 Walking astray as I step into future,
 I am losing my way
