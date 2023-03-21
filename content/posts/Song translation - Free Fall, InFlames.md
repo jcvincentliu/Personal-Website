@@ -11,18 +11,21 @@ showTableOfContents: false
 ## Translation
 <div align="center">
 
-**Free Fall** by *In Flames*   
+ 
+Lsten to the Song [HERE](https://www.youtube.com/watch?v=UAZjKfltFlk):
 
-**坠落 (自由落体)**, *In Flames*   
-
-<hr>
-
-Lsten to the Song at:
-
+```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qj7sammYKTc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+```
 
-<hr>
-<h3>Verse 1</h3>
+---
+
+**FREE FALL** by *In Flames*   
+
+**坠落 (自由落体)**, *In Flames*  
+
+
+$\underline{\textit{VERSE 1}}$
 
 Mirror mirror
 
@@ -49,7 +52,7 @@ Will you save a place for me
 能给我留一片 （回忆里的）地方吗
 
 
-[Pre-Chorus]
+$\underline{\textit{Pre-Chorus}}$
 
 Where am I heading
 
@@ -67,7 +70,8 @@ could I ever repent
 
 我还能回头（后悔）吗？
 
-[Verse 2]
+
+$\underline{\textit{VERSE 2}}$
 
 Mother nature I'm wide open
 
@@ -75,9 +79,10 @@ Mother nature I'm wide open
 
 Waiting for you to move me
 
-等着你来 感动 （拥抱）我
+等着你来感动 （拥抱）我
 
-[Pre-Chorus]
+
+$\underline{\textit{Pre-Chorus}}$
 
 Don't keep it from me
 
@@ -92,7 +97,8 @@ This is the free fall
 我将自由坠下
 
 
-[Chorus]
+$\underline{\textit{CHORUS}}$
+
 
 I never seem to understand
 
@@ -110,7 +116,7 @@ It's like I'm living a lie
 
 我的人生仿佛一个谎言
 
-[Verse 3]
+$\underline{\textit{VERSE 3}}$
 
 Father time
 
@@ -138,8 +144,7 @@ This is a free fall
 
 我将自由坠下
 
-<hr>
-[Chorus]
+$\underline{\textit{CHORUS}}$
 
 I never seem to understand
 

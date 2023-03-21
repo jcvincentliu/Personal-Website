@@ -1,6 +1,6 @@
 
 ---
-title: "Song Translation - 'Who Will Fight by My Side?'"
+title: "Song Translation - 'Who Will Fight by My Side?' Beyond谁伴我闯荡英文翻译"
 date: 2022-12-30
 description: "An English translation of the Cantonese song 谁伴我闯荡 by Beyond, a rock band formed in the 80s whose songs are the memory and belief of many Chinese."
 tags: ["Personal", "Song Translation"]
