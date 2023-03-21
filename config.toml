@@ -62,17 +62,17 @@ pygmentsStyle = "native"
     url = "/about/"
     weight = 2
     
-
-  [[menu.main]]
-    name = "Blog"
-    pre = "<span data-feather='book'></span>"
-    url = "/posts/"
-    weight = 3
     
   [[menu.main]]
     name = "Vincent Says"
     pre = "<span data-feather='mic'></span>"
     url = "/vincent_says/"
+    weight = 3
+    
+  [[menu.main]]
+    name = "Blog"
+    pre = "<span data-feather='book'></span>"
+    url = "/posts/"
     weight = 4
 
   [[menu.main]]
