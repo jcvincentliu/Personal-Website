@@ -10,30 +10,34 @@ showTableOfContents: true
 
 ## Who I am
 
-I am a second-year [Master of Science in Computational Analysis and Public Policy](https://capp.cs.uchicago.edu/) (MS-CAPP) student at the University of Chicago Harris School of Public Policy and Department of Computer Science. I previously graduated from the University of Minnesota Twin Cities with dual degrees in Sociology of law, criminology, and deviance (BS) and Statistics (BA) with minors in Political Science and DirecTrack to Teaching. I am interested in criminal justice (policing, juvenile delinquency, community safety, decarceration, criminal law, Fourth Amendment), K12 teaching and education (esp grades 6-12), public opinion/survey, and US politics (campaigning, voting, public opinion, Senate structure). 
+Hi, welcome to Vincent's website. I am a community-centered mixed-method researcher focusing on the criminal-legal system and its intersection with the K-12. As of now, I have been on this path for six years.  Over this time, I learned a lot, worked a lot, and hopefully have somewhat made some contributions to the improvement of society. As a researcher, I am heavily influenced by my early years' volunteering experiences with criminal justice nonprofits in twin cities working with community members, hearing their stories, and advocating for changes. During the process, I realized data-driven research could be a weapon in reforms, which made me a data science and public policy student at U Chicago.  
 
+I am pretty much a 'nerd' who would talk about research with friends as a way to have fun. As a naturalist, I love walking by lake or river, or climbing mountains so much more than visiting museums or appreciating fancy designed buildings. I believe that emotions matter for human beings, although I still feel lonely sometimes. As a male, I sometimes also struggle with finding my definition of masculinity. 
+
+To conclude, I am a soldier, a friend, and a researcher. I dream big and small. 
 
 ## What I am doing
 
-As a researcher, I focus on policing, juvenile delinquency, and K12. My main areas of interests in policing include community policing, warrior mentality training (and its MN dialect - fear-based training), SWAT raids, police powers defined by the Fourth Amendment, body-worn camera policies, and police reforms. I have opinion pieces published by [*Chicago Policy Review*](https://chicagopolicyreview.org/) (first one: [here](https://chicagopolicyreview.org/2022/01/19/soldiers-to-guardians-transition-to-a-community-policing-model/), second one forthcoming).  
+As a researcher, I focus on policing, corrections, juvenile delinquency, and school to prison pipeline. Notably, my topics of interests in policing include community policing, warrior mentality training (and its MN dialect - fear-based training), SWAT raids, police powers defined by the Fourth Amendment, body-worn camera policies, and police reforms. Some of my policy writings are shown in [*Chicago Policy Review*](https://chicagopolicyreview.org/author/vincent-liu/). Although my training is in data science, I also have tremendous interest in qualitative methods, such as interviews and ethnography, and believing that both are necessary for deriving an unbiased understanding of problems faced by communities and solving them. For this reason, I consider myself a mixed-method researcher (also I am really not the type of sitting in front of a computer and coding all-day. Instead, I really enjoy talking with people and working with people).
 
-As a data science student, I am passionate about data journalism, the art of data visualization and storytelling. I am skilled in R, Python, SQL, Tableau, and Excel with knowledge in machine learning, natural language processing, and statistical analysis. A mixed-method researcher, I am familiar with quantitative (statistics, close-ended survey), qualitative (interview, ethnography, focus group), and community engagement methods. I believe that writing and research are two engines for driving impartial public policies and building community/societal impacts.
+As a data scientist, I find my passion in data storytelling, specifically how to communicate data results with stakeholders through visualizations. I've authored numerous visualization reports and data science blogs in a range of publications on Medium (see my [Medium page](https://jcvincentliu.medium.com)). I believe that impacts only happen when both visualizations and stories are in place. People are not attracted by graphics or stories alone but both. With journalism-like narratives of what people have experienced in the system and professional, ethical, and impact-driven data stories, we could influence the public. Guided by this principle, I have been doing on a lot of practice.      
 
 
-## Where I want to go
+## Educaton
 
-I am interested in careers, such as:
+**2021-Now, University of Chicago Harris School of Policy, Chicago, IL, US**: 
 
-- Data journalism
-- Social science/policy researcher
-- Data scientist
-- Strategic planner
-- Public consulting
+* MS-Computational Analysis and Public Policy ([MS-CAPP](https://capp.cs.uchicago.edu/))
 
-at: 
-- think tank/researcher centers
-- government agencies
-- mission-driven non-profits/for-profits
+**2017-2021, University of Minnesota Twin Cities, Minneapolis, MN, US**
+
+* Bachelor of Science, Sociology of law, criminology, and deviance
+
+* Bachelor of Art, Statistics
+
+* Minor, Political Science
+
+* DirecTrack to Teaching
 
 
 ## Songs on my playlist
@@ -44,6 +48,8 @@ I am a metalhead, especially Metallica!
 
 Some of the songs I recently listened to include:
 
+- *Ground Zero*, Parkway Drive
+- *Free Fall*, In Flames
 - *Only for the Weak*, In Flames
 - *Master of Puppets*, Metallica
 - *Ride the Lightening*, Metallica,
@@ -58,8 +64,6 @@ Some of the songs I recently listened to include:
 ## Initiatives in progress
 
 * **What they experienced, thought, and said: Narrations of people's stories with the criminal justice system**
-
-* **I stand by you: Asian-Black Alliance and Solidarity**
 
 
 

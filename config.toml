@@ -61,18 +61,25 @@ pygmentsStyle = "native"
     pre = "<span data-feather='user'></span>"
     url = "/about/"
     weight = 2
+    
 
   [[menu.main]]
     name = "Blog"
     pre = "<span data-feather='book'></span>"
     url = "/posts/"
     weight = 3
+    
+  [[menu.main]]
+    name = "Vincent Says"
+    pre = "<span data-feather='mic'></span>"
+    url = "/vincent_says/"
+    weight = 4
 
   [[menu.main]]
     name = "Projects"
     pre = "<span data-feather='code'></span>"
     url = "/projects/"
-    weight = 4
+    weight = 5
 
 #  [[menu.main]]
  #   name = "Tags"
@@ -83,20 +90,20 @@ pygmentsStyle = "native"
     [[menu.main]]
     name = "Resume"
     pre = "<span data-feather='file-text'></span>"
-    url = "/files/Resume_updated.pdf"
-    weight = 5
+    url = "/files/Resume_March23.pdf"
+    weight = 6
 
   [[menu.main]]  
     identifier = "github"
     pre = "<span data-feather='github'></span>"
     url = "https://github.com/jcvincentliu/"
-    weight = 6
+    weight = 7
     
   [[menu.main]]
     identifier = "linkedin"
     pre = "<span data-feather='linkedin'></span>"
     url = "https://www.linkedin.com/in/juncheng-liu-79075315a/"
-    weight = 7
+    weight = 8
 
 
 
