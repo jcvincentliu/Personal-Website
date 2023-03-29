@@ -1,6 +1,6 @@
 
 ---
-title: "Hi, Welcome to Vincent's Personal Website"
+title: "Vincent Says"
 type: page
 showTableOfContents: true
 ---
@@ -27,6 +27,8 @@ showTableOfContents: true
 
 6. Blaming the victim is most miserable thing that the weakest will do.
 
+7. Man, show your courage. That's the most precious characteristic of human beings. 
+
 ## Truly Good Songs and Lyric Exercepts
  <!--Very surprised \ would render a line break but \\ wouldn't -->
  
@@ -45,6 +47,14 @@ showTableOfContents: true
    We're no better off alone, \
    than a time bomb  \
                 ---- *Ground Zero*, **Parkway Drive** 
+                
+3. Master, master \
+  Master of puppets, I'm pulling your strings \
+  Twisting your mind and smashing your dreams \
+  Blinded by me, you can't see a thing \
+  Just call my name 'cause I'll hear you scream  \
+                ---- *Master of Puppets*, **Metallica** 
+
                 
                 
                 
