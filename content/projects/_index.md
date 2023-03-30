@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Past or Current Projects"
 type: page
 showTableOfContents: true
 ---
@@ -10,7 +10,7 @@ showTableOfContents: true
 
 * In [**R**](/projects/R_coding/)
 * In [**Python**](/projects/Python_coding/)
-* In **HTML/CSS/JS**: See D3 data journalism section below
+* In **HTML/CSS/JS**: See the D3 data journalism section below
 
 ## Policy Research Project (deliverables)
 
@@ -23,10 +23,10 @@ showTableOfContents: true
 
 ## Data Visualizations and Storytelling (charts and reports)
  
-* (***UNUPDATED***) **Static Charts and Maps:**  
+* (UN-UPDATED) **Static Charts and Maps:**  
   - [Using R](/projects/Visualizations/static/R/)
   - [Using Python](/projects/Visualizations/static/Python/)
-* **$D_3$ Static and Interactive Data Journalism**: 
+* **$D_3.js$ Static and Interactive Data Journalism**: 
   - [Violent Crime Arrests in New York in 2021](https://jcvincentliu.github.io/CAPP30239_FA22/NY_arrest/arrest.html)
   - [Police Killing in the United States in 2015](https://jcvincentliu.github.io/CAPP30239_FA22/police_shooting/police_killing.html)
 
