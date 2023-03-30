@@ -5,22 +5,32 @@ showTableOfContents: true
 ---
 
 
-## Coding Projects (codes, writeups) 
+## Coding Project  
 
 
-* In [**R**](/projects/R_coding/): 
-* In [**Python:**](/projects/Python_coding/)
+* In [**R**](/projects/R_coding/)
+* In [**Python**](/projects/Python_coding/)
+* In **HTML/CSS/JS**: See D3 data journalism section below
 
-## Data Visualizations and Storytelling
+## Policy Research Project (deliverables)
 
-* **Static Charts and Maps:**
+* **Quantitative:**
+  - [Police-Public Relationship in Chicago Survey](/files/policing_survey.pdf)
+* **Qualiative:**
+  - [Community Policing Interviewing Questions and Guide](/files/policing_interview.pdf)
+* **Policy Research (including Data Viz)**
+  - [Mass-Surveillance in US Public Schools, A Presentation](https://docs.google.com/presentation/d/17wMyiju4kRFVLX0zGSvkHSU33lbmu57ISVDXEodyEvE/edit?usp=sharing)
+
+## Data Visualizations and Storytelling (charts and reports)
+ 
+* (***UNUPDATED***) **Static Charts and Maps:**  
   - [Using R](/projects/Visualizations/static/R/)
   - [Using Python](/projects/Visualizations/static/Python/)
 * **$D_3$ Static and Interactive Data Journalism**: 
   - [Violent Crime Arrests in New York in 2021](https://jcvincentliu.github.io/CAPP30239_FA22/NY_arrest/arrest.html)
   - [Police Killing in the United States in 2015](https://jcvincentliu.github.io/CAPP30239_FA22/police_shooting/police_killing.html)
 
-## Technical and Policy Writing
+## Technical, Policy Writing, and Storytelling
 
-* [**Writing Resume**](/projects/Writing/)
+* [**Writing resume**](/projects/Writing/)
 
