@@ -42,7 +42,7 @@ pygmentsStyle = "native"
   socialIcons = [
    # {name = "twitter", url = "https://twitter.com/JunchenVincent"},
     {name = "medium", url = "https://jcvincentliu.medium.com"},
-    {name = "linkedin", url = "https://www.linkedin.com/in/juncheng-liu-79075315a/"},
+    {name = "linkedin", url = "https://www.linkedin.com/in/jcvincentliu/"},
     {name = "github", url = "https://github.com/jcvincentliu/"},
   #  {name = "stackoverflow", url = "https://example.com"},
     {name = "email", url = "mailto:liujcv00048@gmail.com"}
