@@ -27,7 +27,9 @@ showTableOfContents: true
 
 6. Blaming the victim is most miserable thing that the weakest will do.
 
-7. Man, show your courage. That's the most precious characteristic of human beings. 
+7. Man, show your courage. That's the most precious characteristic of human beings.
+
+8. For data scientists, the most important thing is yet running complicated algorithms but understanding data, diving into data, understanding the impacts, and treating them with love and passion. Data scientists must also acknowledge that data contain biases by nature and that such biases could be impactful on our conclusion, for which we must be cautious in interpreting what we find, especially when our findings are related to humans (or more precisely, minorities). Data science is more than a profession. It's about people
 
 ## Truly Good Songs and Lyric Exercepts
  <!--Very surprised \ would render a line break but \\ wouldn't -->

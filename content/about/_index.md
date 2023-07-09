@@ -10,11 +10,11 @@ showTableOfContents: true
 
 ## Who I am
 
-Hi, welcome to Vincent's website. I am a community-centered mixed-method crime researcher focusing on the criminal-legal system and its intersection with the K-12. As of now, I have been on this path for six years.  Over this time, I learned a lot, worked a lot, and hopefully have somewhat made some contributions to the improvement of society. As a researcher, I am heavily influenced by my early years' volunteering experiences with criminal justice nonprofits in twin cities working with community members, hearing their stories, and advocating for changes. During the process, I realized data-driven research could be a weapon in reforms, which made me a data science and public policy student at U Chicago.  
+Hi, welcome to Vincent's website. I am a community-centered mixed-method crime researcher focusing on the criminal-legal system and its intersection with the K-12. As of now, I have been on this path for six years.  Over this time, I learned a lot, worked a lot, and hopefully have somewhat made some contributions to a more safe, equal, and just society. As a researcher, I am heavily influenced by my early years' volunteering experiences with criminal justice nonprofits in twin cities working with community members, hearing their stories, and advocating for changes. During the process, I realized data-driven research could be a weapon in reforms, which made me a researcher who uses data and story as my blades.  
 
-I am pretty much a 'nerd' who would talk about research with friends as a way to have fun. As a naturalist, I love walking by lake or river, or climbing mountains. In addition to that, I am also a fan of Chinese/English literature and art history, although I would prefer outdoor walking to indoor museum visiting 10 out of 10 times.
+I am pretty much a 'nerd' who would talk about research with friends as a way for fun. As a naturalist, I love visiting new places, taking a walk by a lake or river, or listening to noisy yet vibrant heavy metal music. In addition to that, I am also a fan of Chinese/English literature and art history, although I would prefer outdoor walking to indoor museum visiting 8 out of 10 times.
 
-To conclude, I am a human, a male, a friend, and a researcher. I dream big and small. 
+To conclude, I am a male human, a friend, and a researcher. I dream big and small. 
 
 ## What I am doing
 
@@ -26,6 +26,7 @@ As a data scientist, I find my passion in data storytelling, specifically how to
 
 - **In Criminal-Legal System**:
   - Policing
+  - Criminal-legal reforms
   - Corrections and mass incarcerations
   - Community safety and violence prevention
   - Juvenile delinquency and gangs
@@ -35,16 +36,14 @@ As a data scientist, I find my passion in data storytelling, specifically how to
   - School to prison pipeline 
   - School punishment and discipline policy and culture
   - Teacher-student relationship
-  - Education inequalities and segregation
-
 
 ## Educaton
 
-**2021-Now, University of Chicago Harris School of Policy, Chicago, IL, US**: 
+**September 2021- June 2023, University of Chicago Harris School of Policy, Chicago, IL, US**: 
 
 * MS-Computational Analysis and Public Policy ([MS-CAPP](https://capp.cs.uchicago.edu/))
 
-**2017-2021, University of Minnesota Twin Cities, Minneapolis, MN, US**
+**August 2017-May 2021, University of Minnesota Twin Cities, Minneapolis, MN, US**
 
 * Bachelor of Science, Sociology of law, criminology, and deviance
 
@@ -63,14 +62,17 @@ I am a metalhead, especially Metallica!
 
 Some of the songs I recently listened to include:
 
+- *The VOID*, Children of Bodom
+- *Angels Don't Kill*, Children of Bodom
+- *Scream for Silence*, Children of Bodom
+- *Queen of Blades*, Avatar
+- *Destroyer*, Parkway Drive
 - *Ground Zero*, Parkway Drive
 - *Free Fall*, In Flames
 - *Only for the Weak*, In Flames
 - *Master of Puppets*, Metallica
 - *Ride the Lightening*, Metallica,
-- *One*, Metallica
 - *Welcome Home (Sanitarium)*, Metallica
-- *Race to the Sea*, Sabaton
 - ...
 
 ![Metal Gesture](/images/metal_gesture.jpg "metal gesture") 
@@ -79,6 +81,8 @@ Some of the songs I recently listened to include:
 ## Initiatives in progress
 
 * **What they experienced, thought, and said: Narrations of people's stories with the criminal justice system**
+
+* **A Manifesto for Public Data Science and Social Justice**
 
 
 
