@@ -1,12 +1,15 @@
 
 ---
 title: "Teaching Sociology or Teaching Compassion"
-date: 2022-09-10
+date: 2022-07-10
 description: "Social science, specially, sociology is not only a field/subject. It carries the mission of instilling positive human values on people. Compassion is not teachable, but we can help people better stand in others' shoes with the magic of social sciences"
 tags: ["Opinion", "Society"]
 type: post
 showTableOfContents: false
 ---
+
+
+
 
 This is an overdue article on an important question - what is the purpose of teaching social science? Compared to natural science and engineering subjects, social sciences generally receive less funding and have gloomier job prospects - greater difficulty in finding a job and on average, lower salaries at different stages of careers. For students who go to schools only to earn money, it seems less a good choice to take a social science course than an engineering course. Despite this, social science carries a special mission - helping people understand the social world with scientific tools and better sitting in other people's shoes. 
 
