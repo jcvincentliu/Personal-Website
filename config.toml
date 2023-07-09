@@ -13,7 +13,7 @@ pygmentsStyle = "native"
 [params]
   footer = "Vincent Liu"
   showPostsOnHomePage = "recent"
-  description = "Impact-driven in criminal justice and school punishment with data and story-centered research, and public writing"
+  description = "Impact-driven in criminal justice with data and story-centered research, and public writing"
   accentColor = "#cf2525"  
   avatarURL = "/images/picture.jpg"
   AvatarAltText = "avatar"
