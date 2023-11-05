@@ -1,6 +1,6 @@
 ---
 title: "Policy Research: Gideon’s Promise Today: Public Defenders Situation in Cook County, Illinois"
-date: 2023-11-06
+date: 2023-11-04
 description: "Public defenders and prosecutors are two sides of one coin in the criminal justice system, respectively representing the interests of individuals and the government. However, citizens are not granted the right to access a public defender as articulated in the Sixth Amendment until the 60s, and the right is not applied on all criminal cases even today. Compared with prosecutors, public defenders faced more overwhelming workload, more unsatisfying salaries, and more strained relationship with their clients. These issues refrained the group from doing the job to their full potentials and are even further manifested in Cook County, Illinois, one of the largest public defender's office in the country."
 tags: ["Opinion", "Criminal Justice", "Criminal-Legal System", "Public Defenders"]
 type: post
