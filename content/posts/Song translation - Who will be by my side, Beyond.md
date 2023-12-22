@@ -12,7 +12,7 @@ showTableOfContents: false
 <div align="center">
 
 Where should I go next, 
-finding the person that'll be with me on this quest?
+Who will stay with me on this blood-paved quest?
 
 Walking astray as I step into future,
 I am losing my way
