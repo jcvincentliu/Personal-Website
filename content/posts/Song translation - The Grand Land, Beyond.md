@@ -1,7 +1,7 @@
 ---
 title: "Song Translation - The Grand Land Beyond 大地英文翻译"
 date: 2023-12-25
-description: "An English translation of the Cantonese song 大地 by Beyond. This song, which talks about history, nostalgia, and with personal emotions, is what made the band rose to the fame in the late 90s. For Beyond lovers, this song always holds a special place."
+description: "An English translation of the Cantonese song 大地 by Beyond. This song, which talks about history, nostalgia, and with personal emotions, is what made the band rose to fame in the late 90s. For Beyond lovers, this song always holds a special place."
 tags: ["Personal", "Song Translation"] 
 type: post
 showTableOfContents: false
@@ -14,15 +14,15 @@ showTableOfContents: false
 
 --- VERSE---
 
-On those greenery and vibrant land,  
-it was once dyed by myriad bloods and tears
+On those greenery and vibrant road,  
+they was once dyed by myriad bloods and tears
 
 On that aged and frowned face,  
 wind and frost once stayed
 
 days passing by in laughs and drinks,  
 it was my teenager years  
-(*Note here the direct translation of the original words is "autumn wind and autumn rain". Here I translated it to "laugh and drinks" to make it closer to its real meaning*)
+(*Note here the direct translation of the original words is "autumn wind and autumn rain". I translated it to "laugh and drinks" to make it closer to its real meaning*)
 
 The unexpected but determined leave happened in a rush,  
 I didn't even bid farewell
@@ -31,7 +31,8 @@ I didn't even bid farewell
 
 Thinking back the day when I was standing before the gate in that 'alienated land',  
 in my sighs, the feeling of lamentation emerged in my heart   
-All this time, sun set and sun fell. Never changed.
+All this time, sun set and sun fell. Never changed.  
+(*here, I personally think alienated is a word that better captures the meanings than distant*)
 
 This moment as I am gazing at my father's smile,  
 Talking stopped without I even realized it. Silence is what remains.
