@@ -14,7 +14,7 @@ showTableOfContents: false
 
 --- VERSE---
 
-On those greenery and vibrant road,  
+On those greenery and vibrant roads,  
 they was once dyed by myriad bloods and tears
 
 On that aged and frowned face,  
