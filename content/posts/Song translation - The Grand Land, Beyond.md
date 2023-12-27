@@ -1,8 +1,8 @@
 ---
-title: "Song Translation - The Grant Land Beyond 大地英文翻译"
+title: "Song Translation - The Grand Land Beyond 大地英文翻译"
 date: 2023-12-25
-description: "An English translation of the Cantonese song 大地 by Beyond. This song, which talks about history, homeland, and personal growth, is what made the band rose to the fame in the late 90s. This song holds a special place for Beyond lovers."
-tags: ["Personal", "Song Translation"]
+description: "An English translation of the Cantonese song 大地 by Beyond. This song, which talks about history, nostalgia, and with personal emotions, is what made the band rose to the fame in the late 90s. For Beyond lovers, this song always holds a special place."
+tags: ["Personal", "Song Translation"] 
 type: post
 showTableOfContents: false
 ---
