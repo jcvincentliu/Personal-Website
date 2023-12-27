@@ -30,11 +30,11 @@ I didn't even bid farewell
 ---CHORUS---
 
 Thinking back the day when I was standing before the gate in that 'alienated land',  
-the feeling of lamentation emerged in my heart slowly as I sighed  
+in my sighs, the feeling of lamentation emerged in my heart   
 All this time, sun set and sun fell. Never changed.
 
 This moment as I am gazing at my father's smile,  
-I stopped talking without even realizing it. There is only silence.  
+Talking stopped without I even realized it. Silence is what remains.
 The twilight gradually filled my teary eyes.  
 
 ---VERSE---
@@ -59,7 +59,7 @@ in my sighs, the feeling of lamentation emerged in my heart
 All this time, sun set and sun fell. Never changed.
 
 This moment as I am gazing at my father's smile,  
-I stopped talking without even realizing it. There is only silence.  
+Talking stopped without I even realized it. Silence is what remains.
 The twilight gradually filled my teary eyes.  
 
 ...
