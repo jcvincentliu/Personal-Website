@@ -35,7 +35,7 @@ All this time, sun set and sun fell. Never changed.
 (*here, I personally think alienated is a word that better captures the meanings than distant*)
 
 This moment as I am gazing at my father's smile,  
-Talking stopped without I even realized it. Silence is what remains.
+Talking stopped without I even realized it. Silence is what remains.  
 The twilight gradually filled my teary eyes.  
 
 ---VERSE---
@@ -60,7 +60,7 @@ in my sighs, the feeling of lamentation emerged in my heart
 All this time, sun set and sun fell. Never changed.
 
 This moment as I am gazing at my father's smile,  
-Talking stopped without I even realized it. Silence is what remains.
+Talking stopped without I even realized it. Silence is what remains.  
 The twilight gradually filled my teary eyes.  
 
 ...
