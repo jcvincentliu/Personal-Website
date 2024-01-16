@@ -37,11 +37,11 @@ How far will I go
 
 Despite the foundation 
 
-尽管我曾经走过的理由（Foundation: 基础，奠基。这里为意译）
+尽管我已经走了这么远（Foundation: 基础，奠基。这里为意译）
 
 I am falling
 
-我在落下
+我在摔落
 
 Sweet reflection
 
@@ -79,7 +79,7 @@ Mother nature I'm wide open
 
 Waiting for you to move me
 
-等着你来感动 （拥抱）我
+等着你来拥抱我的身体
 
 
 $\underline{\textit{Pre-Chorus}}$
