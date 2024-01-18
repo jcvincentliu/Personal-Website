@@ -20,5 +20,5 @@ Dear X:
 
 &nbsp;&nbsp;&nbsp;&nbsp; X, the rain has been hitting my window for a whole afternoon as I was working on this piece, and hearing the rain, it was incredibly lonely and fulfilling at the same time. A few Chinese poems came to my mind, and they flew away. Tomorrow will be a sunny day and so is the day after. "This is just life", I thought, "sunrise and sunset, rain and sunny, complete and incomplete". Ambitious people hope for too much, but in the end, they often forget to take care of themselves. We all need to love ourselves and be loved.
 
-&nbsp;&nbsp;&nbsp;&nbsp; X, humans are all lonely, and this feeling is mutual and external.
+&nbsp;&nbsp;&nbsp;&nbsp; X, humans are all lonely, and this feeling is mutual and eternal.
 
