@@ -1,6 +1,6 @@
 
 ---
-title: "Narrations of Our Stories - Special: The Mutual Loneliness"
+title: "Narrations of Our Stories - Special: The Collective Loneliness"
 date: 2024-01-02
 description: ""
 tags: ["Personal", "Opinion", "Race", "Equity and Justice"]
